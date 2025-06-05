@@ -35,7 +35,6 @@ Displays a list of all saved events.
 ├── requirements.txt # Python dependencies
 └── README.md # This file
 
-less
 Copy
 Edit
 
